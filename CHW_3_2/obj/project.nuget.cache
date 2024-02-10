@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5MtMLkF/5KQjGHgiJ6dZRIA3dJbjK/NtkAIgQRR+kw8H5ltM3Wj480ct5TLPApF52L7My9OIXSIuBQpjm5ASw==",
+  "success": true,
+  "projectFilePath": "/Users/daniilkostalevsky/Code/C#/CHW/CHW_3_2/CHW_3_2/CHW_3_2.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniilkostalevsky/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/daniilkostalevsky/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/daniilkostalevsky/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

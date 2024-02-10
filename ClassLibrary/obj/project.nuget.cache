@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6u22hUYcdW/yVWOj/icpfFhll/3EDFbjri2ZsMXNus6GjzXcmpV/quTfqszcY7uxibzH7QSxTYq8unQlNcEEjw==",
+  "success": true,
+  "projectFilePath": "/Users/daniilkostalevsky/Code/C#/CHW/CHW_3_2/ClassLibrary/ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniilkostalevsky/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/daniilkostalevsky/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
